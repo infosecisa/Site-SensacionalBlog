@@ -1,0 +1,256 @@
+.principal{
+
+	background: #eeebd9;
+}
+
+.menu {
+
+	background: #613020;
+	width: 101.30%; /* Largura */
+	height: 150px; /* Altura */
+	margin-top: -21px; /* Margem do topo */
+	margin-left: -10px; /* Margem esquerda */
+
+}
+
+.texto1{
+
+	margin-left: 500px;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	padding: 50px;
+	
+}
+.links{
+
+	margin-top: -60px;
+	margin-left: 500px;
+
+
+}
+
+ .menu a {
+
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	padding: 10px;
+	text-decoration: none;
+
+}
+.menu a:link {
+
+	color: white;
+}
+
+.menu a:visited {
+
+	color: white;
+}
+.menu a:hover {
+
+	background: #C0877C;
+	cursor: pointer;
+
+}
+
+.secao1 {
+
+	background: white;
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 52%;
+	height: 680px;
+	
+}
+
+.titulo {
+
+	
+	color: #613020;
+	padding: 25px;
+	position: relative;
+	
+}
+.data{
+
+	
+	padding: 25px;
+	position: relative;
+	margin-top: -70px;
+	margin-left: 3px;
+
+}
+
+.imagem{
+
+	margin-top: -50px;
+	padding: 25px;
+}
+
+.artigo{
+
+	color: black;
+	position: relative;
+	font-size: 15px;
+	margin-top: -65px;
+	padding: 25px;
+}
+
+.artigo a:link {
+
+	color: #613020;
+}
+
+.artigo a:visited {
+
+	color: #613020;
+}
+.artigo a:hover {
+
+	background: white;
+	cursor: pointer;
+}
+.artigo a{
+
+	text-decoration: none;
+}
+
+.secao2 {
+
+	
+	background: white;
+	margin-top: 40px;
+	margin-left: 150px;
+	width: 52%;
+	height: 680px;
+
+}
+
+.direitos {
+
+	
+	background: #F5D8D3;
+	margin-top: 30px;
+	margin-left: 150px;
+	width: 70%;
+	height: 40px;
+}
+
+h4 {
+
+	text-align: center;
+	padding: 10px;
+}
+
+.lateral1{
+
+	background: white;
+	margin-top: -1490px;
+	margin-left: 900px;
+	width: 20%;
+	height: 200px;
+
+}
+
+.lateral2{
+
+	
+	background: white;
+	margin-top: 30px;
+	margin-left: 900px;
+	width: 20%;
+	height: 130px;
+
+}
+
+.postagens{
+
+	
+	background: #C0877C;
+	position: relative;
+	width: 80%;
+	height: 30px;
+	margin-left: 26px;
+	margin-right: 26px;
+}
+
+.postagensEdicao {
+
+	position: relative;
+	margin-left: 19px;
+	font-family: 'Dosis', sans-serif;
+	color: white;
+
+}
+
+.postagensTextos{
+
+	position: relative;
+	padding: 5px;
+}
+
+.categorias {
+	background: #C0877C;
+	position: relative;
+	width: 80%;
+	height: 30px;
+	margin-left: 26px;
+	margin-right: 26px;
+}
+
+.categoriasEdicao{
+
+	position: relative;
+	margin-left: 60px;
+	font-family: 'Dosis', sans-serif;
+	color: white;
+}
+
+.categoriaLinks{
+
+	margin-left: 10px;
+	padding: 20px;
+
+
+
+}
+
+.categoriaLinks a:link {
+
+	color: #613020;
+}
+
+.categoriaLinks a:visited {
+
+	color: #613020;
+}
+.categoriaLinks a:hover {
+
+	background: white;
+	cursor: pointer;
+}
+.categoriaLinks a{
+
+	text-decoration: none;
+}
+
+.postagensTextos a:link {
+
+	color: #613020;
+}
+
+.postagensTextos a:visited {
+
+	color: #613020;
+}
+.postagensTextos a:hover {
+
+	background: white;
+	cursor: pointer;
+}
+.postagensTextos a{
+
+	text-decoration: none;
+	font-size: 18px;
+
+}
